@@ -1,7 +1,7 @@
 # Image-Processing-in-C
 Implementation of popular image processing techniques in C, from scratch.
 
-This project was done as part of the course - CSB 102 Data Structures (Spring 2020), NIT Delhi.
+This project was done as a part of the course - CSB 102 Data Structures (Spring 2020), NIT Delhi.
 
 ## Contents of this repository
 
